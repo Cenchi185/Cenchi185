@@ -1,7 +1,7 @@
 # 프로필 공사중...
 
-🌱🌱🌱 초보 게임 개발자 
-💬 E-mail : kangmin7840@naver.com
+🌱🌱🌱 초보 게임 개발자 <br>
+💬 E-mail : kangmin7840@naver.com <br>
 🔭 포트폴리오 작성중
 <!--
 **Cenchi185/Cenchi185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
