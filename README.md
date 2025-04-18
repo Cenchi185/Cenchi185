@@ -2,8 +2,6 @@
 
 🌱 초보 게임 개발자 <br>
 💬 E-mail : kangmin7840@naver.com <br>
-🔭 포트폴리오 Witch Project 작성중 <br>
-📫 오픈월드 게임 제작 학습중
 <!--
 **Cenchi185/Cenchi185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
